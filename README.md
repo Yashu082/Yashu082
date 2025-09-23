@@ -36,16 +36,6 @@ I'm constantly learning and expanding my skillset in the world of AI and softwar
 
   <br/>
 
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yaswanth-koppanathi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/yaswanth-koppanathi-ai"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"></a>
-  
-</div>
-
-<br>
-
 ## 🙌 Feedback Welcome
 
 I'm always learning and growing as a developer. If you have any suggestions, feedback, or collaboration ideas, I'd love to hear from you! Let's connect and build something amazing together! 🌟
