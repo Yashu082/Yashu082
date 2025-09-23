@@ -39,9 +39,9 @@ I'm constantly learning and expanding my skillset in the world of AI and softwar
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="mailto:yaswanthkoppanathi24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/yaswanth-koppanathi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/yaswanth-koppanathi-ai"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"></a>
+  
 </div>
 
 <br>
