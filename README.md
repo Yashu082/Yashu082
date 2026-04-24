@@ -43,7 +43,7 @@ A Streamlit app that classifies diseases from **770 classes** using a `RandomFor
 
 End-to-end predictive maintenance system trained on **NASA's C-MAPSS turbofan dataset** (33,727 samples, 27 features). Outputs **failure probability (0–1)** with Low / Medium / High risk tiers. Served via a **Django REST API** and visualized through a **React + Plotly dashboard**.
 
-**Stack:** `Python` `Django REST` `scikit-learn` `React` `Plotly.js` `Pandas` `NumPy`  
+**Stack:** `Python` `Django REST` `scikit-learn` `React` `Plotly.js` `Pandas` `NumPy`
 **Model:** R² `0.87` · RMSE `0.059` · MAE `0.046`
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Yashu082/predictive-maintenance-dashboard)
@@ -55,7 +55,7 @@ End-to-end predictive maintenance system trained on **NASA's C-MAPSS turbofan da
 
 Trains a `Random Forest Regressor` (300 trees) on **500,000+ road segments** across 20 features — road type, curvature, weather, lighting, and historical accident data. Deployed as an interactive **Streamlit app** with real-time prediction and CSV export.
 
-**Stack:** `Python` `scikit-learn` `Pandas` `NumPy` `Streamlit`  
+**Stack:** `Python` `scikit-learn` `Pandas` `NumPy` `Streamlit`
 **Model:** R² `0.8729` · RMSE `0.0592` · MAE `0.0460`
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Yashu082/road-accident-risk-prediction)
@@ -136,21 +136,13 @@ A Flask web app that extracts PDF resume text, applies **deterministic role–sk
 
 <div align="center">
 
-| 🏆 Contributions | 🔥 Streak | ⭐ Stars | 📁 Repos |
-|:-:|:-:|:-:|:-:|
-| **149** | **5 days best** | **53** | **28** |
+<img src="https://github-readme-stats.vercel.app/api?username=Yashu082&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu082&hide=move&langs_count=6&layout=compact&theme=react&border_radius=10&hide_border=true" height="170" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Yashu082&count_private=true&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" height="160" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashu082&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&hide_title=true" alt="GitHub Stats" height="160" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu082&hide=HTML,move&langs_count=6&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" width="55%" />
+<img src="https://streak-stats.demolab.com/?user=Yashu082&theme=react&border_radius=10&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
 
 </div>
 
